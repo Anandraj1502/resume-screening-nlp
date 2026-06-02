@@ -1,4 +1,10 @@
 # AI-Based Resume Screening System using NLP
+Live app URL:
+
+
+https://resume-screening-nlp.streamlit.app
+
+
 
 This project screens resumes against a job description using NLP. It extracts resume text, calculates job-resume match score, identifies matched/missing skills, and ranks candidates.
 

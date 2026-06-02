@@ -1,0 +1,1 @@
+We are hiring a Data Scientist / Data Analyst with strong skills in Python, SQL, Excel, Power BI, machine learning, NLP, pandas, scikit-learn, statistics, data visualization, dashboard development, and communication. The candidate should perform EDA, data cleaning, build classification models, and present business insights.

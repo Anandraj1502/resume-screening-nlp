@@ -1,0 +1,5 @@
+Anand Raj
+Data Analyst Fresher
+Skills: Python, SQL, Excel, Power BI, pandas, numpy, data cleaning, EDA, dashboard, statistics, data visualization, communication, problem solving.
+Projects: Customer churn dashboard, HR analytics dashboard, sales performance dashboard.
+Experience: Built dashboards and analyzed datasets using Python and SQL.

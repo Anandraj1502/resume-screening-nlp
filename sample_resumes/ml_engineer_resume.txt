@@ -1,0 +1,5 @@
+Rahul Kumar
+Machine Learning Engineer
+Skills: Python, machine learning, deep learning, NLP, scikit-learn, TensorFlow, PyTorch, pandas, numpy, classification, regression, Git, GitHub, Streamlit.
+Projects: Resume screening system, fake news detection, sentiment analysis.
+Experience: Developed ML models and deployed apps using Streamlit.
